@@ -1,0 +1,19 @@
+.header {
+  background-color: #fff;
+  padding: 0;
+  overflow: hidden;
+  border-bottom: 1px solid #dadada;
+}
+.header-logo {
+  font-size: 1.4rem;
+  color: #1e90ff;
+  text-align: left;
+}
+.header-text {
+  color: #999;
+  padding-left: 0.2rem;
+  font-size: 0.6rem;
+}
+.ant-menu-horizontal {
+  border: 0;
+}
